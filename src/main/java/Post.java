@@ -6,8 +6,5 @@ public class Post {
     public String phone;
     public String surname;
     public boolean subscribtion = true;
-    FormDate date = new FormDate();
     public FormDate birthday;
-
-
 }

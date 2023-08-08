@@ -14,7 +14,6 @@ public class Main {
         post.birthday.month = 6;
         post.birthday.year = 1999;
 
-
     }
 
 }
